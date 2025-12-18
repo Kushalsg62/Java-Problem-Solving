@@ -4,7 +4,7 @@ This repository contains Java coding problems categorized by real-world logic an
 
 ## Folder Structure
 
-- `real-world-problems/`
+- `Basic-Java-Logic-Programs/`
 - `Intermediate-Java-Logic-Programs/`
 - `Advanced-Java-Logic-Programs/`
 
