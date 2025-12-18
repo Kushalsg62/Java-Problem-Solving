@@ -6,7 +6,7 @@ This repository contains Java coding problems categorized by real-world logic an
 
 - `real-world-problems/`
 - `dsa/`
-- `beginner-practice/`
+- `Advanced-Java-Logic-Programs/`
 
 ## How to Run
 
