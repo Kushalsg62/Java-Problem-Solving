@@ -5,7 +5,7 @@ This repository contains Java coding problems categorized by real-world logic an
 ## Folder Structure
 
 - `real-world-problems/`
-- `dsa/`
+- `Intermediate-Java-Logic-Programs/`
 - `Advanced-Java-Logic-Programs/`
 
 ## How to Run
